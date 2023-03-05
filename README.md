@@ -1,7 +1,7 @@
 ## Quand vous clonez le repo
 
 Quand vous allez coner le repo sur votre PC, les dépendances ne seront pas incluses, en revanche les liens des dépendances sont dans les fichiers de fonfig.
-Donc pour installer les dépendances, faites >npm i
+Donc pour installer les dépendances, faites `npm i`
 
 ## Pour déployer/publier le site:
 
