@@ -4,13 +4,13 @@
 	"short_name": "Sparkless",
 	"description": "Application compagnon pour les cendriers Sparkless",
 	"start_url": "/",
-	"background_color": "#2f3d58",
-	"theme_color": "#2f3d58",
+	"background_color": "#FBFBFB",
+	"theme_color": "#FFB100",
 	"orientation": "any",
 	"display": "standalone",
 	"icons": [
 		{
-			"src": "img/icon/android-chrome-512x512.png",
+			"src": "/img/icon/android-chrome-512x512.png",
 			"sizes": "512x512"
 		}
 	]
